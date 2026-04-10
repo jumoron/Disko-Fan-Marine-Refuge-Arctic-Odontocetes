@@ -6,4 +6,4 @@ Descriptive stats and violin plots.
 
 Acoustic profile plots and wigner-ville. 
 
-RF and Kmeans.
+RF (93.88% accuracy, 6.24% OOB estimate of  error rate) and Kmeans.
