@@ -4,4 +4,6 @@ PCA for all speacies and separately.
 
 Descriptive stats and violin plots.
 
+Acoustic profile plots and wigner-ville. 
+
 RF and Kmeans.
