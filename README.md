@@ -10,4 +10,6 @@ Gather files.
 
 RF (96.11% accuracy, 4.1% OOB estimate of  error rate) and Kmeans.
 
-Classifier
+Classifier script.
+
+High-confidence >.8 classified data.
