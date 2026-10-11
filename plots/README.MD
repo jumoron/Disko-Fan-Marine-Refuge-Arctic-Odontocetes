@@ -1,0 +1,1 @@
+Access narwhal (nw), northern bottlenose whale (nbw), and sperm whale (spw) violin plots for: duration (ms), -3dB center frequency (kHz), peak frequency (kHz), TOL 16 to 25 power (dB), TOL 25 to 40 power (dB), TOL ratio difference (16:25 - 25:40, dB).
